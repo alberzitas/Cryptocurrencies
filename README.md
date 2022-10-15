@@ -16,7 +16,7 @@ For this project, we are using unsupervised machine learning to determine which 
 
 ### Reducing data dimensions using PCA
 
-![](resources/pcs.png)
+![](resources/pca.png)
 
 ### 3D Scatter plot with clusters
 
@@ -28,5 +28,5 @@ For this project, we are using unsupervised machine learning to determine which 
 
 ### Crypto scatterplot
 
-![](resources/scatterplot.ong)
+![](resources/scatterplot.png)
 
